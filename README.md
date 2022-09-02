@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhashbgowda</h1>
+<h1 align="center">Hi 👋, I'm Subhash</h1>
 <h3 align="center">A passionate web application developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashbgowda&label=Profile%20views&color=0e75b6&style=flat" alt="subhashbgowda" /> </p>
