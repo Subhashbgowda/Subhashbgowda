@@ -10,9 +10,8 @@
 - 💬 Ask me about **HTML,CSS,TYPESCRIPT**
 
 - 📫 How to reach me **subhash.cse.rymec@gmail.com** OR **subhasyuva482@gmail.com**
-- LINKEDIN-
-href="https://www.linkedin.com/in/subhash-b-gowda-80b091190/"<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa%26pid%3DApi&f=1"/>
-
+- LINKEDIN- https://www.linkedin.com/in/subhash-b-gowda-80b091190/
+ 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pdZ3xBeSmsMfWpN_oXVaDY0u8P-RAUMP/view?usp=sharing](https://drive.google.com/file/d/1pdZ3xBeSmsMfWpN_oXVaDY0u8P-RAUMP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
