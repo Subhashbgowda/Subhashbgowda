@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/subhashbgowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="subhashbgowda" height="30" width="40" /></a>
 <a href="https://instagram.com/subhash___17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhash___17" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/subhash-b-gowda-80b091190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhash___17" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/subhash-b-gowda-80b091190/" target="blank"><img align="center" src= "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Flinkedin%2Flogo-linkedin-icon-4096.png&f=1&nofb=1" alt="subhash___17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
