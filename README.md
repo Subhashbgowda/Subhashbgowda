@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Subhash</h1>
-<h3 align="center">A passionate web application developer from India</h3>
+<h3 align="center">A passionate web application developer  and AI Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashbgowda&label=Profile%20views&color=0e75b6&style=flat" alt="subhashbgowda" /> </p>
 
-- 🌱 I’m currently learning **angular**
+- 🌱 I’m currently doing my Master's in Data Science and Artificial Intelligence in UPJS Kosice.
 
 - 👨‍💻 All of my projects are available at [file:///C:/Users/Subhash/Documents/GitHub/me/index.html](file:///C:/Users/Subhash/Documents/GitHub/me/index.html)
 
-- 💬 Ask me about **HTML,CSS,TYPESCRIPT**
+- 💬Feel free to ask me about Web Development, TypeScript, or Data Science — including data analysis, machine learning, data visualization, and statistical modeling.
 
-- 📫 How to reach me **subhash.cse.rymec@gmail.com** OR **subhasyuva482@gmail.com**
+- 📫 How to reach me **subhasyuva482@gmail.com**
 - LINKEDIN- https://www.linkedin.com/in/subhash-b-gowda-80b091190/
  
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pdZ3xBeSmsMfWpN_oXVaDY0u8P-RAUMP/view?usp=sharing](https://drive.google.com/file/d/1pdZ3xBeSmsMfWpN_oXVaDY0u8P-RAUMP/view?usp=sharing)
