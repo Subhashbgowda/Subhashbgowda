@@ -1,37 +1,59 @@
-<h1 align="center">Hi 👋, I'm Subhash</h1>
-<h3 align="center">A passionate web application developer  and AI Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Subhash B. Gowda</h1>
+<h3 align="center">Data Science & AI Master's Student | Web Application Developer | AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashbgowda&label=Profile%20views&color=0e75b6&style=flat" alt="subhashbgowda" /> </p>
-
-- 🌱 I’m currently doing my Master's in Data Science and Artificial Intelligence in UPJS Kosice.
-
-- 👨‍💻 All of my projects are available at [file:///C:/Users/Subhash/Documents/GitHub/me/index.html](file:///C:/Users/Subhash/Documents/GitHub/me/index.html)
-
-- 💬Feel free to ask me about Web Development, TypeScript, or Data Science — including data analysis, machine learning, data visualization, and statistical modeling.
-
-- 📫 How to reach me **subhasyuva482@gmail.com**
-- LINKEDIN- https://www.linkedin.com/in/subhash-b-gowda-80b091190/
- 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pdZ3xBeSmsMfWpN_oXVaDY0u8P-RAUMP/view?usp=sharing](https://drive.google.com/file/d/1pdZ3xBeSmsMfWpN_oXVaDY0u8P-RAUMP/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/subhashbgowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="subhashbgowda" height="30" width="40" /></a>
-<a href="https://instagram.com/subhash___17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhash___17" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/subhash-b-gowda-80b091190/" target="blank"><img align="center" src= "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Flinkedin%2Flogo-linkedin-icon-4096.png&f=1&nofb=1" alt="subhash___17" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhashbgowda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🎓 Currently pursuing a Master's in Data Science and Artificial Intelligence at UPJS Košice, Slovakia.
 
+- 👨‍💻 Experienced in full-stack web development and passionate about applying AI/ML in real-world solutions.
 
+- 🔭 Working with technologies including **TypeScript, Angular, Node.js, Python**, and **Data Science tools** for data analysis, visualization, and machine learning.
 
+- 📂 Explore my projects and portfolio [here](file:///C:/Users/Subhash/Documents/GitHub/me/index.html).
 
+- 💬 Ask me about Web Development, TypeScript, Machine Learning, Data Visualization, and Statistical Modeling.
 
+- 📫 Reach me at: **subhasyuva482@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhashbgowda)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhashbgowda&show_icons=true&theme=radical)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/subhash-b-gowda-80b091190/)
 
+- 📄 [Resume & Experience](https://drive.google.com/file/d/1pdZ3xBeSmsMfWpN_oXVaDY0u8P-RAUMP/view?usp=sharing)
 
+---
 
- 
+### Connect with me
+
+<p align="left">
+  <a href="https://stackoverflow.com/users/subhashbgowda" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/subhash___17" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/subhash-b-gowda-80b091190/" target="_blank" rel="noreferrer">
+    <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" alt="LinkedIn" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+### Languages & Tools
+
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" /></a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular" width="40" height="40" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40" /></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
+</p>
+
+---
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhashbgowda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhashbgowda&show_icons=true&theme=radical)
